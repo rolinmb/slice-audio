@@ -1,0 +1,5 @@
+audio-in
+audio-out
+src/main
+src/main.o
+src/main.exe
